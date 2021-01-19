@@ -1,6 +1,7 @@
-:page_with_curl:
 
- <h1 align="center" width="15"  Joguinhos para aprender CSS>
+  <div align="center"><h1>JOGUINHOS PARA APRENDER CSS <h1/><div/> 
+ <h3 align="center" width="10">
+:page_with_curl:
 
  - [FLEXBOXFROGGY](http://flexboxfroggy.com/)
 
